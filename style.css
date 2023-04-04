@@ -1,0 +1,39 @@
+body 
+  {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-image: linear-gradient(rgb(255, 134, 255),cyan);
+  }
+  
+  .header_div 
+  {
+    color: rgb(22, 72, 251);
+  }
+  
+  .header_div p {
+    font-family: 'Roboto', sans-serif;
+    color: black;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+  }
+  
+  .main_div button {
+    font-family: 'Roboto', sans-serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+  }
+  
+  .copy_right_footer {
+    position: fixed;
+    color: rgb(0, 152, 13);
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: cyan;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 4px 4px 4px grey;
+  
+  }
